@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/nissy131/nissy131/main/profile-summary-card-output/slateorange/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/nissy131/nissy131/main/profile-summary-card-output/slateorange/4-productive-time.svg)
-```
-
-    
